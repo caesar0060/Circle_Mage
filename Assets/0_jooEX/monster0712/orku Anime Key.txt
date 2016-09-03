@@ -1,0 +1,13 @@
+1-30     working
+
+31-60    attack
+
+61-90    death
+
+91-120   break
+
+121-150  blow
+
+151-180  stand
+
+181-210  recall

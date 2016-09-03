@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 235bd288e8d17a84f83505dabfe1dba2
+timeCreated: 1468306526
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Center_Joint
+    100002: //RootNode
+    100004: Dark_Soul_Joint
+    100006: Dark_Soul_Mesh
+    100008: Dark_Soul_Mesh 1
+    100010: Head_Joint01
+    100012: Head_Joint02
+    100014: Jaw_Joint
+    100016: L_Ancle_Joint
+    100018: L_Clavicle_Joint
+    100020: L_Elbow_Joint
+    100022: L_Index_Joint01
+    100024: L_Index_Joint02
+    100026: L_Index_Joint03
+    100028: L_Jaw_Joint01
+    100030: L_Jaw_Joint02
+    100032: L_Knee_Joint
+    100034: L_Middle_Joint01
+    100036: L_Middle_Joint02
+    100038: L_Middle_Joint03
+    100040: L_Parm_Joint
+    100042: L_pinky_Joint01
+    100044: L_pinky_Joint02
+    100046: L_pinky_Joint03
+    100048: L_Ring_Joint01
+    100050: L_Ring_Joint02
+    100052: L_Ring_Joint03
+    100054: L_shouder_Joint
+    100056: L_Thumb_joint01
+    100058: L_Thumb_joint02
+    100060: L_Thumb_joint03
+    100062: L_Tight_Joint
+    100064: L_Toe_Joint01
+    100066: L_Toe_Joint02
+    100068: L_Twist_Joinit
+    100070: Neck_Joint01
+    100072: Neck_Joint02
+    100074: Neck_Joint03
+    100076: R_Ancle_Joint
+    100078: R_Clavicle_Joint
+    100080: R_Elbow_Joint
+    100082: R_Index_Joint01
+    100084: R_Index_Joint02
+    100086: R_Index_Joint03
+    100088: R_Jaw_Joint01
+    100090: R_Jaw_Joint02
+    100092: R_Knee_Joint
+    100094: R_Middle_Joint01
+    100096: R_Middle_Joint02
+    100098: R_Middle_Joint03
+    100100: R_Parm_Joint
+    100102: R_pinky_Joint01
+    100104: R_pinky_Joint02
+    100106: R_pinky_Joint03
+    100108: R_Ring_Joint01
+    100110: R_Ring_Joint02
+    100112: R_Ring_Joint03
+    100114: R_shouder_Joint
+    100116: R_Thumb_joint01
+    100118: R_Thumb_joint02
+    100120: R_Thumb_joint03
+    100122: R_Tight_Joint
+    100124: R_Toe_Joint01
+    100126: R_Toe_Joint02
+    100128: R_Twist_Joinit
+    100130: Spine_Joint01
+    100132: Spine_Joint02
+    100134: Spine_Joint03
+    100136: Spine_Joint04
+    100138: Tail_02
+    100140: Tail_Joint01
+    100142: Tail_Joint02
+    100144: Tail_Joint03
+    100146: Tail_Joint04
+    100148: Tail_Joint05
+    100150: Tail_Joint06
+    100152: Tail_Joint07
+    100154: Tail_Joint08
+    400000: Center_Joint
+    400002: //RootNode
+    400004: Dark_Soul_Joint
+    400006: Dark_Soul_Mesh
+    400008: Dark_Soul_Mesh 1
+    400010: Head_Joint01
+    400012: Head_Joint02
+    400014: Jaw_Joint
+    400016: L_Ancle_Joint
+    400018: L_Clavicle_Joint
+    400020: L_Elbow_Joint
+    400022: L_Index_Joint01
+    400024: L_Index_Joint02
+    400026: L_Index_Joint03
+    400028: L_Jaw_Joint01
+    400030: L_Jaw_Joint02
+    400032: L_Knee_Joint
+    400034: L_Middle_Joint01
+    400036: L_Middle_Joint02
+    400038: L_Middle_Joint03
+    400040: L_Parm_Joint
+    400042: L_pinky_Joint01
+    400044: L_pinky_Joint02
+    400046: L_pinky_Joint03
+    400048: L_Ring_Joint01
+    400050: L_Ring_Joint02
+    400052: L_Ring_Joint03
+    400054: L_shouder_Joint
+    400056: L_Thumb_joint01
+    400058: L_Thumb_joint02
+    400060: L_Thumb_joint03
+    400062: L_Tight_Joint
+    400064: L_Toe_Joint01
+    400066: L_Toe_Joint02
+    400068: L_Twist_Joinit
+    400070: Neck_Joint01
+    400072: Neck_Joint02
+    400074: Neck_Joint03
+    400076: R_Ancle_Joint
+    400078: R_Clavicle_Joint
+    400080: R_Elbow_Joint
+    400082: R_Index_Joint01
+    400084: R_Index_Joint02
+    400086: R_Index_Joint03
+    400088: R_Jaw_Joint01
+    400090: R_Jaw_Joint02
+    400092: R_Knee_Joint
+    400094: R_Middle_Joint01
+    400096: R_Middle_Joint02
+    400098: R_Middle_Joint03
+    400100: R_Parm_Joint
+    400102: R_pinky_Joint01
+    400104: R_pinky_Joint02
+    400106: R_pinky_Joint03
+    400108: R_Ring_Joint01
+    400110: R_Ring_Joint02
+    400112: R_Ring_Joint03
+    400114: R_shouder_Joint
+    400116: R_Thumb_joint01
+    400118: R_Thumb_joint02
+    400120: R_Thumb_joint03
+    400122: R_Tight_Joint
+    400124: R_Toe_Joint01
+    400126: R_Toe_Joint02
+    400128: R_Twist_Joinit
+    400130: Spine_Joint01
+    400132: Spine_Joint02
+    400134: Spine_Joint03
+    400136: Spine_Joint04
+    400138: Tail_02
+    400140: Tail_Joint01
+    400142: Tail_Joint02
+    400144: Tail_Joint03
+    400146: Tail_Joint04
+    400148: Tail_Joint05
+    400150: Tail_Joint06
+    400152: Tail_Joint07
+    400154: Tail_Joint08
+    4300000: Dark_Soul_Mesh
+    7400000: Walk
+    7400002: Attack
+    7400004: Break
+    7400006: Death
+    7400008: Blow
+    7400010: Recall
+    7400012: Stand
+    9500000: //RootNode
+    13700000: Dark_Soul_Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.65373963
+        functionName: PlayerDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Break
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: StageClear
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayerWin
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Blow
+      takeName: Take 001
+      firstFrame: 281
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Recall
+      takeName: Take 001
+      firstFrame: 351
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 351
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark_Soul_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/L_Tight_Joint/L_Knee_Joint/L_Ancle_Joint/L_Toe_Joint01/L_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/R_Tight_Joint/R_Knee_Joint/R_Ancle_Joint/R_Toe_Joint01/R_Toe_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Index_Joint01/L_Index_Joint02/L_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Middle_Joint01/L_Middle_Joint02/L_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_pinky_Joint01/L_pinky_Joint02/L_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Ring_Joint01/L_Ring_Joint02/L_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/L_Clavicle_Joint/L_shouder_Joint/L_Elbow_Joint/L_Twist_Joinit/L_Parm_Joint/L_Thumb_joint01/L_Thumb_joint02/L_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Head_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/L_Jaw_Joint01/L_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/Neck_Joint01/Neck_Joint02/Neck_Joint03/Head_Joint01/Jaw_Joint/R_Jaw_Joint01/R_Jaw_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Index_Joint01/R_Index_Joint02/R_Index_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Middle_Joint01/R_Middle_Joint02/R_Middle_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_pinky_Joint01/R_pinky_Joint02/R_pinky_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Ring_Joint01/R_Ring_Joint02/R_Ring_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Spine_Joint01/Spine_Joint02/Spine_Joint03/Spine_Joint04/R_Clavicle_Joint/R_shouder_Joint/R_Elbow_Joint/R_Twist_Joinit/R_Parm_Joint/R_Thumb_joint01/R_Thumb_joint02/R_Thumb_joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07
+        weight: 1
+      - path: Dark_Soul_Joint/Center_Joint/Tail_Joint01/Tail_02/Tail_Joint02/Tail_Joint03/Tail_Joint04/Tail_Joint05/Tail_Joint06/Tail_Joint07/Tail_Joint08
+        weight: 1
+      - path: Dark_Soul_Mesh
+        weight: 1
+      - path: Dark_Soul_Mesh/Dark_Soul_Mesh 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+3	Sprit
+1	Death
+1	Omnipotence
+1	Birth
+1	Life

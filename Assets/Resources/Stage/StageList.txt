@@ -1,0 +1,13 @@
+#Stage	Clear
+Stage1	false
+Stage2	false
+Stage3	false
+Stage4	false
+Stage5	false
+Stage6	false
+Stage7	false
+Stage8	false
+Stage9	false
+Stage10	false
+Stage11	false
+Stage12	false

@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 5680ac0a106fe144f9a90d563dad346c
+timeCreated: 1468306766
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: NightHunt_Head
+    100002: NightHunt_Headbotton01
+    100004: NightHunt_Headbttpn02
+    100006: NightHunt_Headtop01
+    100008: NightHunt_Headtop02
+    100010: NightHunt_Joint
+    100012: NightHunt_L_ancle
+    100014: NightHunt_L_ball
+    100016: NightHunt_L_Clavicle
+    100018: NightHunt_L_Elbow
+    100020: NightHunt_L_leg01
+    100022: NightHunt_L_leg02
+    100024: NightHunt_L_leg03
+    100026: NightHunt_L_leg04
+    100028: NightHunt_L_leg05
+    100030: NightHunt_L_Shouder
+    100032: NightHunt_Neck01
+    100034: NightHunt_Neck02
+    100036: NightHunt_Neck03
+    100038: NightHunt_Neck04
+    100040: NightHunt_R_ancle
+    100042: NightHunt_R_ball
+    100044: NightHunt_R_Clavicle
+    100046: NightHunt_R_elbow
+    100048: NightHunt_R_leg01
+    100050: NightHunt_R_leg02
+    100052: NightHunt_R_leg03
+    100054: NightHunt_R_leg04
+    100056: NightHunt_R_leg05
+    100058: NightHunt_R_Shouder
+    100060: NightHunt_spine01
+    100062: NightHunt_spine02
+    100064: NightHunt_tail01
+    100066: NightHunt_tail02
+    100068: NightHunt_tail03
+    100070: NightHunt_tail04
+    100072: NightHunt_tail05
+    100074: NightHunt_tail06
+    100076: //RootNode
+    100078: NightHunter_Mesh
+    100080: polySurface101
+    100082: polySurface102
+    100084: polySurface85
+    100086: polySurface86
+    100088: polySurface87
+    400000: NightHunt_Head
+    400002: NightHunt_Headbotton01
+    400004: NightHunt_Headbttpn02
+    400006: NightHunt_Headtop01
+    400008: NightHunt_Headtop02
+    400010: NightHunt_Joint
+    400012: NightHunt_L_ancle
+    400014: NightHunt_L_ball
+    400016: NightHunt_L_Clavicle
+    400018: NightHunt_L_Elbow
+    400020: NightHunt_L_leg01
+    400022: NightHunt_L_leg02
+    400024: NightHunt_L_leg03
+    400026: NightHunt_L_leg04
+    400028: NightHunt_L_leg05
+    400030: NightHunt_L_Shouder
+    400032: NightHunt_Neck01
+    400034: NightHunt_Neck02
+    400036: NightHunt_Neck03
+    400038: NightHunt_Neck04
+    400040: NightHunt_R_ancle
+    400042: NightHunt_R_ball
+    400044: NightHunt_R_Clavicle
+    400046: NightHunt_R_elbow
+    400048: NightHunt_R_leg01
+    400050: NightHunt_R_leg02
+    400052: NightHunt_R_leg03
+    400054: NightHunt_R_leg04
+    400056: NightHunt_R_leg05
+    400058: NightHunt_R_Shouder
+    400060: NightHunt_spine01
+    400062: NightHunt_spine02
+    400064: NightHunt_tail01
+    400066: NightHunt_tail02
+    400068: NightHunt_tail03
+    400070: NightHunt_tail04
+    400072: NightHunt_tail05
+    400074: NightHunt_tail06
+    400076: //RootNode
+    400078: NightHunter_Mesh
+    400080: polySurface101
+    400082: polySurface102
+    400084: polySurface85
+    400086: polySurface86
+    400088: polySurface87
+    2300000: polySurface102
+    2300002: polySurface85
+    2300004: polySurface87
+    3300000: polySurface102
+    3300002: polySurface85
+    3300004: polySurface87
+    4300000: polySurface101
+    4300002: polySurface86
+    4300004: polySurface87
+    4300006: polySurface85
+    4300008: polySurface102
+    7400000: Walk
+    7400002: Attack
+    7400004: Death
+    7400006: Break
+    7400008: Blow
+    7400010: Recall
+    7400012: Stand
+    9500000: //RootNode
+    13700000: polySurface101
+    13700002: polySurface86
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.7507599
+        functionName: PlayerDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: StageClear
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Break
+      takeName: Take 001
+      firstFrame: 241
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Blow
+      takeName: Take 001
+      firstFrame: 301
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Recall
+      takeName: Take 001
+      firstFrame: 351
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 441
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NightHunt_Joint
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_L_leg01/NightHunt_L_leg02/NightHunt_L_leg03/NightHunt_L_leg04/NightHunt_L_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_R_leg01/NightHunt_R_leg02/NightHunt_R_leg03/NightHunt_R_leg04/NightHunt_R_leg05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_L_Clavicle/NightHunt_L_Shouder/NightHunt_L_Elbow/NightHunt_L_ancle/NightHunt_L_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/NightHunt_Headbttpn02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface85
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headbotton01/polySurface102
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/NightHunt_Headtop02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_Neck01/NightHunt_Neck02/NightHunt_Neck03/NightHunt_Neck04/NightHunt_Head/NightHunt_Headtop01/polySurface87
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_spine01/NightHunt_spine02/NightHunt_R_Clavicle/NightHunt_R_Shouder/NightHunt_R_elbow/NightHunt_R_ancle/NightHunt_R_ball
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05
+        weight: 1
+      - path: NightHunt_Joint/NightHunt_tail01/NightHunt_tail02/NightHunt_tail03/NightHunt_tail04/NightHunt_tail05/NightHunt_tail06
+        weight: 1
+      - path: NightHunter_Mesh
+        weight: 1
+      - path: NightHunter_Mesh/polySurface86
+        weight: 1
+      - path: NightHunter_Mesh/polySurface101
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

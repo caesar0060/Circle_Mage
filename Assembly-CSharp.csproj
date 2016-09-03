@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{BE8CAFFE-9DE9-9EDC-5901-036DB5ED3ED7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_TEXTUREID_MAP;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;WWW_USE_CURL;HAS_NEON_SKINNIG;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Circel\Circel.cs" />
+     <Compile Include="Assets\Scripts\Circel\CircelControl.cs" />
+     <Compile Include="Assets\Scripts\Circel\CircelDefence.cs" />
+     <Compile Include="Assets\Scripts\Circel\CircleSelect.cs" />
+     <Compile Include="Assets\Scripts\Mage\AbyssEyeScript.cs" />
+     <Compile Include="Assets\Scripts\Mage\CoolDown.cs" />
+     <Compile Include="Assets\Scripts\Mage\IceRiver.cs" />
+     <Compile Include="Assets\Scripts\Mage\Mage.cs" />
+     <Compile Include="Assets\Scripts\Mage\MageAttack.cs" />
+     <Compile Include="Assets\Scripts\Mage\MageControl.cs" />
+     <Compile Include="Assets\Scripts\Mage\MageLevelControl.cs" />
+     <Compile Include="Assets\Scripts\Mage\MeteoScript.cs" />
+     <Compile Include="Assets\Scripts\Mage\removeMahou.cs" />
+     <Compile Include="Assets\Scripts\Monster\BossNavi.cs" />
+     <Compile Include="Assets\Scripts\Monster\BossPoint.cs" />
+     <Compile Include="Assets\Scripts\Monster\EnemyPoint.cs" />
+     <Compile Include="Assets\Scripts\Monster\MonsterAnimatorScript.cs" />
+     <Compile Include="Assets\Scripts\Monster\MonsterControl.cs" />
+     <Compile Include="Assets\Scripts\Monster\MonsterStatus.cs" />
+     <Compile Include="Assets\Scripts\Monster\WeaponScript.cs" />
+     <Compile Include="Assets\Scripts\Navi\NaviControl.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerStatus.cs" />
+     <Compile Include="Assets\Scripts\Player\StatusControl.cs" />
+     <Compile Include="Assets\Scripts\SingletonMonoBehaviour.cs" />
+     <Compile Include="Assets\Scripts\SkillPage\ButtonSprit.cs" />
+     <Compile Include="Assets\Scripts\SkillPage\CircleStatus.cs" />
+     <Compile Include="Assets\Scripts\SkillPage\LevelUpControl.cs" />
+     <Compile Include="Assets\Scripts\SkillPage\MageStatus.cs" />
+     <Compile Include="Assets\Scripts\SkillPage\SkillPageScript.cs" />
+     <Compile Include="Assets\Scripts\Stage\LoadLevel.cs" />
+     <Compile Include="Assets\Scripts\Stage\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\Stage\ScenarioManager.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageSelect.cs" />
+     <Compile Include="Assets\Scripts\Stage\TextControl.cs" />
+     <Compile Include="Assets\Scripts\Title\Title.cs" />
+     <Compile Include="Assets\Scripts\TouchControl.cs" />
+     <Compile Include="Assets\Scripts\UI\RotateToCamera.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\ElectricBall\XP_ElectricBall.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\FireComet\XP_FireComet.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\LightEnergy\XP_LightEnergy.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\SoulTrails\XP_SoulTrails.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\XP_Controller.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\XP_Fireball.cs" />
+     <Compile Include="Assets\Xffect\EffectLibrary\X-Projectile\XP_Manager.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XClipArea\XClipArea.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XPerObjImageEffects\XPerObjCameraComp.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XPerObjImageEffects\XPerObjRenderer.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XSpline\Scripts\XSpline.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XSpline\Scripts\XSplineComponent.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XSpline\Scripts\XSplineUtil.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XWeaponTrail\Scripts\Spline.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XWeaponTrail\Scripts\SplineControlPoint.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XWeaponTrail\Scripts\XWeaponTrail.cs" />
+     <Compile Include="Assets\Xffect\EnhancementTools\XWeaponTrail\Scripts\XWeaponTrailDemo.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\Affector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\AirFieldAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\BombAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\ColorAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\DragAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\GravityAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\SineAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\TurbulenceFieldAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Affectors\VortexAffector.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Component\CompositeXffect.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Component\EffectLayer.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Component\SimpleRotate.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Component\XffectCache.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Component\XffectComponent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Cone.cs" />
+     <Compile Include="Assets\Xffect\Scripts\CustomMesh.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Decal.cs" />
+     <Compile Include="Assets\Xffect\Scripts\EffectNode.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Emitter.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraComponent\XftCameraEffectComp.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraComponent\XftCameraShakeComp.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\CameraEffectEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\ColorInverseEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\GlitchEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\GlowEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\GlowPerObjEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\RadialBlurEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraEffects\RadialBlurTexAddEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\CameraShakeEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\LightEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\SoundEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\TimeScaleEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\XftEvent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Events\XftEventComponent.cs" />
+     <Compile Include="Assets\Xffect\Scripts\RenderObject.cs" />
+     <Compile Include="Assets\Xffect\Scripts\RibbonTrail.cs" />
+     <Compile Include="Assets\Xffect\Scripts\Rope.cs" />
+     <Compile Include="Assets\Xffect\Scripts\RopeData.cs" />
+     <Compile Include="Assets\Xffect\Scripts\SphericalBillboard.cs" />
+     <Compile Include="Assets\Xffect\Scripts\SplineTrail.cs" />
+     <Compile Include="Assets\Xffect\Scripts\UVAnimation.cs" />
+     <Compile Include="Assets\Xffect\Scripts\VertexPool.cs" />
+     <Compile Include="Assets\Xffect\Scripts\XffectBrowserData.cs" />
+     <Compile Include="Assets\Xffect\Scripts\XftSprite.cs" />
+     <Compile Include="Assets\Xffect\Scripts\XftTools.cs" />
+     <Compile Include="Assets\Xffect\SpriteMaker\CameraController.cs" />
+     <Compile Include="Assets\Xffect\SpriteMaker\SpriteMaker.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\API Usage\GravityDemo\GravityDemo.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\API Usage\MagicChain\XftMagicChainDemo.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\GettingStart\ReleaseYourEffect.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\GettingStart\StopYourEffect.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\RopeRenderer\XftRopeDemo.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\SphericalBillboard\SphericalBillboardDemo.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\Spline\dynamic_spline.cs" />
+     <Compile Include="Assets\Xffect\Tutorial\Spline\spline_examples.cs" />
+     <Compile Include="Assets\Xffect\demo.cs" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement_blend.shader" />
+     <None Include="Assets\Xffect\Tutorial\Events\CameraShake\readme.txt" />
+     <None Include="Assets\Xffect\EffectLibrary\readme.txt" />
+     <None Include="Assets\Xffect\Tutorial\AdvanceShader\Flow\readme.txt" />
+     <None Include="Assets\Resources\Monster\Enemy\HellHpund.txt" />
+     <None Include="Assets\Resources\Mage\LV1 Shock Wave.txt" />
+     <None Include="Assets\Resources\Monster\Enemy\DemonYaiba.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement-dissolve_additive.shader" />
+     <None Include="Assets\Resources\Player\Sprit.txt" />
+     <None Include="Assets\Resources\Player\Death.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_color_inverse.shader" />
+     <None Include="Assets\Xffect\EnhancementTools\XWeaponTrail\readme_english.txt" />
+     <None Include="Assets\Xffect\EnhancementTools\XClipArea\xft_clip_matcap_add.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glitch.shader" />
+     <None Include="Assets\Resources\Stage\Stage1.txt" />
+     <None Include="Assets\Xffect\Tutorial\GettingStart\readme.txt" />
+     <None Include="Assets\Xffect\Tutorial\AdvanceShader\Dissolve\readme.txt" />
+     <None Include="Assets\Graphics\Cristal_FBX\anime_memo.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glow_downsample.shader" />
+     <None Include="Assets\Resources\Monster\Enemy\DemonYari.txt" />
+     <None Include="Assets\Resources\Player\Omnipotence.txt" />
+     <None Include="Assets\Resources\Monster\Boss\DarkSoul.txt" />
+     <None Include="Assets\0_jooEX\monster0712\DarkSoul Anime Key.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement_additive.shader" />
+     <None Include="Assets\Resources\Mage\Lv2 Thunder strom kill.txt" />
+     <None Include="Assets\Xffect\EnhancementTools\XPerObjImageEffects\Resources\Shaders\xft_blur.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\GlowPerObj\xft_glow_replacement.shader" />
+     <None Include="Assets\Xffect\EnhancementTools\XClipArea\xft_clip_add.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_mask_additive.shader" />
+     <None Include="Assets\Resources\Mage\LV3 Heart Breaker.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_radial_blur.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\Object\xft_sphericalbillboard_add.shader" />
+     <None Include="Assets\Resources\Mage\MahouLevel.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement-flow_additive.shader" />
+     <None Include="Assets\Xffect\Tutorial\API Usage\GravityDemo\readme.txt" />
+     <None Include="Assets\Resources\Monster\Boss\NightHunter.txt" />
+     <None Include="Assets\Xffect\readme.txt" />
+     <None Include="Assets\Resources\Mage\LV1 Ice Needle.txt" />
+     <None Include="Assets\Xffect\SpriteMaker\tutorial.txt" />
+     <None Include="Assets\Resources\Mage\LV3 Abyss Eye.txt" />
+     <None Include="Assets\Resources\Player\StatusLevel.txt" />
+     <None Include="Assets\Resources\Player\Birth.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glow_conetap.shader" />
+     <None Include="Assets\Resources\Stage\Stage2.txt" />
+     <None Include="Assets\Xffect\Tutorial\SphericalBillboard\readme.txt" />
+     <None Include="Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort\readme.txt" />
+     <None Include="Assets\0_jooEX\monster0712\NightHunter Anime Key.txt" />
+     <None Include="Assets\Resources\Monster\Enemy\DemonYami.txt" />
+     <None Include="Assets\Xffect\EnhancementTools\XWeaponTrail\Model\readme.txt" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Xffect\EnhancementTools\XWeaponTrail\readme_chinese.txt" />
+     <None Include="Assets\Resources\Scenario\Scenario.txt" />
+     <None Include="Assets\Xffect\EnhancementTools\XPerObjImageEffects\Resources\Shaders\xft_whitepass.shader" />
+     <None Include="Assets\Resources\Mage\LV1 Explosion.txt" />
+     <None Include="Assets\Resources\Player\Life.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\Object\xft_volume_fog.shader" />
+     <None Include="Assets\Resources\Mage\LV2 Meteo.txt" />
+     <None Include="Assets\Resources\Navi\Navi.txt" />
+     <None Include="Assets\Resources\Monster\Enemy\Orku.txt" />
+     <None Include="Assets\Resources\Stage\Stage3.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\GlowPerObj\xft_glow_perobj_additive.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\GlowPerObj\xft_glow_blend.shader" />
+     <None Include="Assets\Resources\Mage\LV2 Frozen River.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glow_compose.shader" />
+     <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement_screen.shader" />
+     <None Include="Assets\Xffect\Tutorial\SubEmitter\readme.txt" />
+     <None Include="Assets\0_jooEX\Magic FX\IceRiver\Frozen_River_Memo.txt" />
+     <None Include="Assets\Resources\Mage\LV1 Lightning Shower.txt" />
+     <None Include="Assets\0_jooEX\monster0712\orku Anime Key.txt" />
+     <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_radial_blur_mask.shader" />
+     <None Include="Assets\Xffect\EnhancementTools\XPerObjImageEffects\Resources\Shaders\xft_mix.shader" />
+     <None Include="Assets\Resources\Stage\StageList.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{28EBA827-8535-2FF0-0E5F-2BD55FD49586}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

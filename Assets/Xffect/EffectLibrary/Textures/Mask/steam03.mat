@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: steam03
+  m_Shader: {fileID: 4800000, guid: 264949a1c8507014a854517f6baee4b2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: f482f58aaefc4d74bbebf90d9cf5b621, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 51c4c85eaf84d2b499e1a306f1d5ae11, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DispMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 023ac132cbd00e440b34fa183afae10e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 8d3bbe93587bf584c975853d3d7d764a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _DispScrollSpeedX
+        second: 0
+      data:
+        first:
+          name: _DispScrollSpeedY
+        second: -.839999974
+      data:
+        first:
+          name: _DispX
+        second: 0
+      data:
+        first:
+          name: _DispY
+        second: .349999994
+      data:
+        first:
+          name: _DissolveGamma
+        second: 1
+      data:
+        first:
+          name: _DissolveScrollSpeedX
+        second: 0
+      data:
+        first:
+          name: _DissolveScrollSpeedY
+        second: -.839999974
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 1, g: 1, b: 1, a: 1}

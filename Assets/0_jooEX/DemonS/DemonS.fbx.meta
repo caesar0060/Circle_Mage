@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 222e6741eff926d48b90cc914e95ecd7
+timeCreated: 1464377200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DemonS_01
+    100004: DemonS_02
+    100006: DemonS_03
+    100008: DemonS_04
+    100010: DemonS_05
+    100012: DemonS_B_Cloth01
+    100014: DemonS_B_Cloth02
+    100016: DemonS_B_Cloth03
+    100018: DemonS_Center
+    100020: DemonS_F_Cloth01
+    100022: DemonS_F_Cloth02
+    100024: DemonS_F_Cloth03
+    100026: DemonS_Joint
+    100028: DemonS_ken
+    100030: DemonS_ken01
+    100032: DemonS_L_Ancle
+    100034: DemonS_L_Ball
+    100036: DemonS_L_Clavicle
+    100038: DemonS_L_Elbow
+    100040: DemonS_L_Hand
+    100042: DemonS_L_Knee
+    100044: DemonS_L_Shouder
+    100046: DemonS_L_Tight
+    100048: DemonS_L_Toe
+    100050: DemonS_L_Twist
+    100052: DemonS_Mesh
+    100054: DemonS_Neck
+    100056: DemonS_R_Ancle
+    100058: DemonS_R_Ball
+    100060: DemonS_R_Clavicle
+    100062: DemonS_R_Elbow
+    100064: DemonS_R_Hand
+    100066: DemonS_R_Knee
+    100068: DemonS_R_Shouder
+    100070: DemonS_R_Tight
+    100072: DemonS_R_Toe
+    100074: DemonS_R_Twist
+    100076: DemonS_Spine01
+    100078: DemonS_Spine02
+    100080: DemonS_Spine03
+    100082: DemonS_Top
+    400000: //RootNode
+    400002: DemonS_01
+    400004: DemonS_02
+    400006: DemonS_03
+    400008: DemonS_04
+    400010: DemonS_05
+    400012: DemonS_B_Cloth01
+    400014: DemonS_B_Cloth02
+    400016: DemonS_B_Cloth03
+    400018: DemonS_Center
+    400020: DemonS_F_Cloth01
+    400022: DemonS_F_Cloth02
+    400024: DemonS_F_Cloth03
+    400026: DemonS_Joint
+    400028: DemonS_ken
+    400030: DemonS_ken01
+    400032: DemonS_L_Ancle
+    400034: DemonS_L_Ball
+    400036: DemonS_L_Clavicle
+    400038: DemonS_L_Elbow
+    400040: DemonS_L_Hand
+    400042: DemonS_L_Knee
+    400044: DemonS_L_Shouder
+    400046: DemonS_L_Tight
+    400048: DemonS_L_Toe
+    400050: DemonS_L_Twist
+    400052: DemonS_Mesh
+    400054: DemonS_Neck
+    400056: DemonS_R_Ancle
+    400058: DemonS_R_Ball
+    400060: DemonS_R_Clavicle
+    400062: DemonS_R_Elbow
+    400064: DemonS_R_Hand
+    400066: DemonS_R_Knee
+    400068: DemonS_R_Shouder
+    400070: DemonS_R_Tight
+    400072: DemonS_R_Toe
+    400074: DemonS_R_Twist
+    400076: DemonS_Spine01
+    400078: DemonS_Spine02
+    400080: DemonS_Spine03
+    400082: DemonS_Top
+    4300000: DemonS_01
+    4300002: DemonS_02
+    4300004: DemonS_03
+    4300006: DemonS_04
+    4300008: DemonS_05
+    7400000: Move
+    7400002: Stand
+    7400004: Blow
+    7400006: Break
+    7400008: Attack
+    7400010: Death
+    7400012: Recall
+    9500000: //RootNode
+    13700000: DemonS_01
+    13700002: DemonS_02
+    13700004: DemonS_03
+    13700006: DemonS_04
+    13700008: DemonS_05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Blow
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Break
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6582279
+        functionName: PlayerDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DestroyMonster
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Recall
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DemonS_Joint
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_B_Cloth01/DemonS_B_Cloth02/DemonS_B_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_F_Cloth01/DemonS_F_Cloth02/DemonS_F_Cloth03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_L_Tight/DemonS_L_Knee/DemonS_L_Ancle/DemonS_L_Ball/DemonS_L_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_R_Tight/DemonS_R_Knee/DemonS_R_Ancle/DemonS_R_Ball/DemonS_R_Toe
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_L_Clavicle/DemonS_L_Shouder/DemonS_L_Elbow/DemonS_L_Twist/DemonS_L_Hand/DemonS_ken/DemonS_ken01
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_Neck/DemonS_Top
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist
+        weight: 1
+      - path: DemonS_Joint/DemonS_Center/DemonS_Spine01/DemonS_Spine02/DemonS_Spine03/DemonS_R_Clavicle/DemonS_R_Shouder/DemonS_R_Elbow/DemonS_R_Twist/DemonS_R_Hand
+        weight: 1
+      - path: DemonS_Mesh
+        weight: 1
+      - path: DemonS_Mesh/DemonS_01
+        weight: 1
+      - path: DemonS_Mesh/DemonS_02
+        weight: 1
+      - path: DemonS_Mesh/DemonS_03
+        weight: 1
+      - path: DemonS_Mesh/DemonS_04
+        weight: 1
+      - path: DemonS_Mesh/DemonS_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

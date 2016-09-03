@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fa00e92432949438edb46e5ee6a111, type: 3}
+  m_Name: XPresets
+  m_EditorClassIdentifier: 
+  Presets:
+  - Category: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort
+    Path: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort\burst_wave.prefab
+  - Category: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort
+    Path: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort\controlled_distort.prefab
+  - Category: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort
+    Path: Assets\Xffect\Tutorial\AdvanceShader\ScreenDistort\heat_wave.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\ElectricBall.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\ElectricBall_Exp.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\FireComet_Exp.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\FireComet_Warmup.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\LightEnergy.prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\LightEnergy_Exp(delay 2 sec).prefab
+  - Category: Assets\Xffect\EffectLibrary\X-Projectile
+    Path: Assets\Xffect\EffectLibrary\X-Projectile\parabolic_shoot_2.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Spline
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Spline\circle_ribbontrail.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Spline
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Spline\circle_splinetrail.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Spline
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Spline\SkullSWirl.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\blast_glow_02.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\blast_glow_03.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\cyclone_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\cyclone_02.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\energy_shield(5.3k tris, should
+      not use on mobile).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\energy_up.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\evil_portal(play to see).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\exp_small.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\fire.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\gather_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\gather_02.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\gather_03.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\gather_04.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\gather_05.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\glow_per_obj.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\lightning01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\line02.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\line_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\line_03.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\magic_ball.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\phantom_sword.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\portal.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\ray_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\slash01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\spread_slash_trail.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\spread_soul_pink.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\steam.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\trail_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\volumetric_light.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\volumetric_light2(play to see
+      result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Other
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Other\window_light(play to see result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\abilityup.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\Blizzard_Manager(play to see
+      result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\bloody_cyclone.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\boost_wind.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\breakout.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\crescent_slash.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\cure.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\CycloneStorm_Manager(play to
+      see result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\FireStorm_Manager.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\fireup.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\guard_of_light.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\gui_click.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\healingwind.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\hit01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\hit_big.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\impact_flare.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\LightningStorm_Manager.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\lightning_explode.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\mana_recover.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\radial_veins.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\requiem_of_souls(please set gravity
+      object by API).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\resurrection.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\ring_energy.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\sand_exp.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\skill_rune_01.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\skill_rune_02.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\SnowStormManager.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\soul_line(please set length by
+      API).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\spread_lightning.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\summon.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\surround_fireball.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\surround_soul.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\Mobile
+    Path: Assets\Xffect\EffectLibrary\Prefabs\Mobile\swap_cone.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\explode_energy.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\ice_impact.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\level_up.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\phantom_sword_pro(play to
+      see the result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\protect_ring.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\radial_energy.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\suckblood(play to see the
+      result).prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\tornado.prefab
+  - Category: Assets\Xffect\EffectLibrary\Prefabs\BigEffects
+    Path: Assets\Xffect\EffectLibrary\Prefabs\BigEffects\TornadoStorm_Manager(play
+      to see).prefab

@@ -1,0 +1,10 @@
+@Explosion is very powerful Mage.									
+#Level	MP	Cast_Time	Power	XZ Blowing	Y Blowing	Break Power	Hit	Range	Cost
+0	-	-	-	-	-	-	-	-	100
+1	120	0.2	400	0	0	500	1	1	500
+2	150	0.2	500	0	0	500	1	1.2	1000
+3	180	0.2	600	0	0	500	1	1.4	Å[
+									
+									
+									
+									

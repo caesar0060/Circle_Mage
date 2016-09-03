@@ -1,0 +1,13 @@
+1-90    working
+
+91-150  attack
+
+151-240 Death
+
+241-300 break
+
+301-350 blow
+
+351-500 recall
+
+

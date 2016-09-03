@@ -1,0 +1,998 @@
+fileFormatVersion: 2
+guid: d97e8880f1540ab4f9aa3688b9d12c06
+timeCreated: 1464861099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Hellhound_Center
+    100002: Hellhound_Down_Head01
+    100004: Hellhound_Down_Head02
+    100006: Hellhound_Head
+    100008: Hellhound_L_B_Leg01
+    100010: Hellhound_L_B_Leg02
+    100012: Hellhound_L_B_Leg03
+    100014: Hellhound_L_B_Leg04
+    100016: Hellhound_L_B_Leg05
+    100018: Hellhound_L_Clavicle
+    100020: Hellhound_L_F_Leg01
+    100022: Hellhound_L_F_Leg02
+    100024: Hellhound_L_F_Leg03
+    100026: Hellhound_L_F_Leg04
+    100028: Hellhound_Mesh
+    100030: Hellhound_Mesh01
+    100032: Hellhound_Mesh02
+    100034: Hellhound_Mesh03
+    100036: Hellhound_Mesh04
+    100038: Hellhound_Mesh05
+    100040: Hellhound_Mesh06
+    100042: Hellhound_Mesh07
+    100044: Hellhound_Mesh08
+    100046: Hellhound_Neck
+    100048: Hellhound_R_B_Leg01
+    100050: Hellhound_R_B_Leg02
+    100052: Hellhound_R_B_Leg03
+    100054: Hellhound_R_B_Leg04
+    100056: Hellhound_R_B_Leg05
+    100058: Hellhound_R_Clavicle
+    100060: Hellhound_R_F_Leg01
+    100062: Hellhound_R_F_Leg02
+    100064: Hellhound_R_F_Leg03
+    100066: Hellhound_R_F_Leg04
+    100068: Hellhound_Spine01
+    100070: Hellhound_Spine02
+    100072: Hellhound_Tail01
+    100074: Hellhound_Tail02
+    100076: Hellhound_Tail03
+    100078: Hellhound_Up_Head01
+    100080: Hellhound_Up_Head02
+    100082: //RootNode
+    400000: Hellhound_Center
+    400002: Hellhound_Down_Head01
+    400004: Hellhound_Down_Head02
+    400006: Hellhound_Head
+    400008: Hellhound_L_B_Leg01
+    400010: Hellhound_L_B_Leg02
+    400012: Hellhound_L_B_Leg03
+    400014: Hellhound_L_B_Leg04
+    400016: Hellhound_L_B_Leg05
+    400018: Hellhound_L_Clavicle
+    400020: Hellhound_L_F_Leg01
+    400022: Hellhound_L_F_Leg02
+    400024: Hellhound_L_F_Leg03
+    400026: Hellhound_L_F_Leg04
+    400028: Hellhound_Mesh
+    400030: Hellhound_Mesh01
+    400032: Hellhound_Mesh02
+    400034: Hellhound_Mesh03
+    400036: Hellhound_Mesh04
+    400038: Hellhound_Mesh05
+    400040: Hellhound_Mesh06
+    400042: Hellhound_Mesh07
+    400044: Hellhound_Mesh08
+    400046: Hellhound_Neck
+    400048: Hellhound_R_B_Leg01
+    400050: Hellhound_R_B_Leg02
+    400052: Hellhound_R_B_Leg03
+    400054: Hellhound_R_B_Leg04
+    400056: Hellhound_R_B_Leg05
+    400058: Hellhound_R_Clavicle
+    400060: Hellhound_R_F_Leg01
+    400062: Hellhound_R_F_Leg02
+    400064: Hellhound_R_F_Leg03
+    400066: Hellhound_R_F_Leg04
+    400068: Hellhound_Spine01
+    400070: Hellhound_Spine02
+    400072: Hellhound_Tail01
+    400074: Hellhound_Tail02
+    400076: Hellhound_Tail03
+    400078: Hellhound_Up_Head01
+    400080: Hellhound_Up_Head02
+    400082: //RootNode
+    4300000: Hellhound_Mesh01
+    4300002: Hellhound_Mesh02
+    4300004: Hellhound_Mesh03
+    4300006: Hellhound_Mesh04
+    4300008: Hellhound_Mesh05
+    4300010: Hellhound_Mesh06
+    4300012: Hellhound_Mesh07
+    4300014: Hellhound_Mesh08
+    7400000: Move
+    7400002: Attack
+    7400004: Dead
+    7400006: Break
+    7400008: Blow
+    7400010: Stand
+    7400012: Recall
+    9500000: //RootNode
+    13700000: Hellhound_Mesh01
+    13700002: Hellhound_Mesh02
+    13700004: Hellhound_Mesh03
+    13700006: Hellhound_Mesh04
+    13700008: Hellhound_Mesh05
+    13700010: Hellhound_Mesh06
+    13700012: Hellhound_Mesh07
+    13700014: Hellhound_Mesh08
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.3375527
+        functionName: PlayerDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DestroyMonster
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Break
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Blow
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Recall
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hellhound_Center
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_L_B_Leg01/Hellhound_L_B_Leg02/Hellhound_L_B_Leg03/Hellhound_L_B_Leg04/Hellhound_L_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_R_B_Leg01/Hellhound_R_B_Leg02/Hellhound_R_B_Leg03/Hellhound_R_B_Leg04/Hellhound_R_B_Leg05
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_L_Clavicle/Hellhound_L_F_Leg01/Hellhound_L_F_Leg02/Hellhound_L_F_Leg03/Hellhound_L_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Down_Head01/Hellhound_Down_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_Neck/Hellhound_Head/Hellhound_Up_Head01/Hellhound_Up_Head02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Spine01/Hellhound_Spine02/Hellhound_R_Clavicle/Hellhound_R_F_Leg01/Hellhound_R_F_Leg02/Hellhound_R_F_Leg03/Hellhound_R_F_Leg04
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02
+        weight: 1
+      - path: Hellhound_Center/Hellhound_Tail01/Hellhound_Tail02/Hellhound_Tail03
+        weight: 1
+      - path: Hellhound_Mesh
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh01
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh02
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh03
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh04
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh05
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh06
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh07
+        weight: 1
+      - path: Hellhound_Mesh/Hellhound_Mesh08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

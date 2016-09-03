@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 04a3217df32794eb69dd24740dcb7bc5
+timeCreated: 1455168446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: C_Hair_01
+    100002: C_Hair_02
+    100004: C_Hair_03
+    100006: C_Hair_04
+    100008: C_Hair_05
+    100010: C_Hair_06
+    100012: C_Hair_07
+    100014: C_Manto01
+    100016: C_Manto02
+    100018: C_Manto03
+    100020: //RootNode
+    100022: Head
+    100024: joint1
+    100026: joint2
+    100028: Joint_Center
+    100030: L_Clavicle
+    100032: L_Elbow
+    100034: L_Hair01
+    100036: L_Hair02
+    100038: L_Hair03
+    100040: L_Hair04
+    100042: L_Hair05
+    100044: L_Leg01
+    100046: L_Leg02
+    100048: L_Leg03
+    100050: L_Leg04
+    100052: L_Manto01
+    100054: L_Manto02
+    100056: L_Manto03
+    100058: L_Pinger01
+    100060: L_Pinger02
+    100062: L_Shouder
+    100064: L_Twist
+    100066: Mesh
+    100068: Neck
+    100070: polySurface100
+    100072: polySurface101
+    100074: polySurface103
+    100076: polySurface104
+    100078: polySurface105
+    100080: polySurface106
+    100082: polySurface107
+    100084: polySurface108
+    100086: polySurface109
+    100088: polySurface110
+    100090: polySurface113
+    100092: polySurface114
+    100094: polySurface115
+    100096: polySurface94
+    100098: polySurface95
+    100100: polySurface96
+    100102: polySurface97
+    100104: polySurface98
+    100106: polySurface99
+    100108: pPlane1
+    100110: R_Clavicle
+    100112: R_Elbow
+    100114: R_Hair01
+    100116: R_Hair02
+    100118: R_Hair03
+    100120: R_Hair04
+    100122: R_Hair05
+    100124: R_Leg01
+    100126: R_Leg02
+    100128: R_Leg03
+    100130: R_Leg04
+    100132: R_Manto01
+    100134: R_Manto02
+    100136: R_Manto03
+    100138: R_Pinger01
+    100140: R_Pinger02
+    100142: R_Shouder
+    100144: R_Twist
+    100146: Spine01
+    100148: Spine02
+    100150: Top
+    400000: C_Hair_01
+    400002: C_Hair_02
+    400004: C_Hair_03
+    400006: C_Hair_04
+    400008: C_Hair_05
+    400010: C_Hair_06
+    400012: C_Hair_07
+    400014: C_Manto01
+    400016: C_Manto02
+    400018: C_Manto03
+    400020: //RootNode
+    400022: Head
+    400024: joint1
+    400026: joint2
+    400028: Joint_Center
+    400030: L_Clavicle
+    400032: L_Elbow
+    400034: L_Hair01
+    400036: L_Hair02
+    400038: L_Hair03
+    400040: L_Hair04
+    400042: L_Hair05
+    400044: L_Leg01
+    400046: L_Leg02
+    400048: L_Leg03
+    400050: L_Leg04
+    400052: L_Manto01
+    400054: L_Manto02
+    400056: L_Manto03
+    400058: L_Pinger01
+    400060: L_Pinger02
+    400062: L_Shouder
+    400064: L_Twist
+    400066: Mesh
+    400068: Neck
+    400070: polySurface100
+    400072: polySurface101
+    400074: polySurface103
+    400076: polySurface104
+    400078: polySurface105
+    400080: polySurface106
+    400082: polySurface107
+    400084: polySurface108
+    400086: polySurface109
+    400088: polySurface110
+    400090: polySurface113
+    400092: polySurface114
+    400094: polySurface115
+    400096: polySurface94
+    400098: polySurface95
+    400100: polySurface96
+    400102: polySurface97
+    400104: polySurface98
+    400106: polySurface99
+    400108: pPlane1
+    400110: R_Clavicle
+    400112: R_Elbow
+    400114: R_Hair01
+    400116: R_Hair02
+    400118: R_Hair03
+    400120: R_Hair04
+    400122: R_Hair05
+    400124: R_Leg01
+    400126: R_Leg02
+    400128: R_Leg03
+    400130: R_Leg04
+    400132: R_Manto01
+    400134: R_Manto02
+    400136: R_Manto03
+    400138: R_Pinger01
+    400140: R_Pinger02
+    400142: R_Shouder
+    400144: R_Twist
+    400146: Spine01
+    400148: Spine02
+    400150: Top
+    2300000: polySurface100
+    2300002: polySurface101
+    2300004: polySurface109
+    2300006: polySurface110
+    2300008: polySurface115
+    2300010: polySurface95
+    2300012: pPlane1
+    3300000: polySurface100
+    3300002: polySurface101
+    3300004: polySurface109
+    3300006: polySurface110
+    3300008: polySurface115
+    3300010: polySurface95
+    3300012: pPlane1
+    4300000: polySurface94
+    4300002: polySurface96
+    4300004: polySurface97
+    4300006: polySurface98
+    4300008: polySurface99
+    4300010: polySurface104
+    4300012: polySurface107
+    4300014: polySurface108
+    4300016: polySurface113
+    4300018: polySurface114
+    4300020: polySurface105
+    4300022: polySurface106
+    4300024: polySurface103
+    4300026: pPlane1
+    4300028: polySurface100
+    4300030: polySurface101
+    4300032: polySurface110
+    4300034: polySurface109
+    4300036: polySurface95
+    4300038: polySurface115
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface103
+    13700002: polySurface104
+    13700004: polySurface105
+    13700006: polySurface106
+    13700008: polySurface107
+    13700010: polySurface108
+    13700012: polySurface113
+    13700014: polySurface114
+    13700016: polySurface94
+    13700018: polySurface96
+    13700020: polySurface97
+    13700022: polySurface98
+    13700024: polySurface99
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/polySurface115
+        weight: 1
+      - path: Joint_Center
+        weight: 1
+      - path: Joint_Center/C_Manto01
+        weight: 1
+      - path: Joint_Center/C_Manto01/C_Manto02
+        weight: 1
+      - path: Joint_Center/C_Manto01/C_Manto02/C_Manto03
+        weight: 1
+      - path: Joint_Center/L_Leg01
+        weight: 1
+      - path: Joint_Center/L_Leg01/L_Leg02
+        weight: 1
+      - path: Joint_Center/L_Leg01/L_Leg02/L_Leg03
+        weight: 1
+      - path: Joint_Center/L_Leg01/L_Leg02/L_Leg03/L_Leg04
+        weight: 1
+      - path: Joint_Center/L_Manto01
+        weight: 1
+      - path: Joint_Center/L_Manto01/L_Manto02
+        weight: 1
+      - path: Joint_Center/L_Manto01/L_Manto02/L_Manto03
+        weight: 1
+      - path: Joint_Center/R_Leg01
+        weight: 1
+      - path: Joint_Center/R_Leg01/R_Leg02
+        weight: 1
+      - path: Joint_Center/R_Leg01/R_Leg02/R_Leg03
+        weight: 1
+      - path: Joint_Center/R_Leg01/R_Leg02/R_Leg03/R_Leg04
+        weight: 1
+      - path: Joint_Center/R_Manto01
+        weight: 1
+      - path: Joint_Center/R_Manto01/R_Manto02
+        weight: 1
+      - path: Joint_Center/R_Manto01/R_Manto02/R_Manto03
+        weight: 1
+      - path: Joint_Center/Spine01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/polySurface95
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02/C_Hair_03
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02/C_Hair_03/C_Hair_04
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02/C_Hair_03/C_Hair_04/C_Hair_05
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02/C_Hair_03/C_Hair_04/C_Hair_05/C_Hair_06
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/C_Hair_01/C_Hair_02/C_Hair_03/C_Hair_04/C_Hair_05/C_Hair_06/C_Hair_07
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/L_Hair02
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/L_Hair02/L_Hair03
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/L_Hair02/L_Hair03/L_Hair04
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/L_Hair02/L_Hair03/L_Hair04/L_Hair05
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/polySurface100
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/L_Hair01/polySurface101
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/polySurface109
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/polySurface110
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/R_Hair02
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/R_Hair02/R_Hair03
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/R_Hair02/R_Hair03/R_Hair04
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/Head/Top/R_Hair01/R_Hair02/R_Hair03/R_Hair04/R_Hair05
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle/L_Shouder
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle/L_Shouder/L_Elbow
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle/L_Shouder/L_Elbow/L_Twist
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle/L_Shouder/L_Elbow/L_Twist/L_Pinger01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/L_Clavicle/L_Shouder/L_Elbow/L_Twist/L_Pinger01/L_Pinger02
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle/R_Shouder
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle/R_Shouder/R_Elbow
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle/R_Shouder/R_Elbow/R_Twist
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle/R_Shouder/R_Elbow/R_Twist/R_Pinger01
+        weight: 1
+      - path: Joint_Center/Spine01/Spine02/Neck/R_Clavicle/R_Shouder/R_Elbow/R_Twist/R_Pinger01/R_Pinger02
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface94
+        weight: 1
+      - path: Mesh/polySurface96
+        weight: 1
+      - path: Mesh/polySurface97
+        weight: 1
+      - path: Mesh/polySurface98
+        weight: 1
+      - path: Mesh/polySurface99
+        weight: 1
+      - path: Mesh/polySurface103
+        weight: 1
+      - path: Mesh/polySurface104
+        weight: 1
+      - path: Mesh/polySurface105
+        weight: 1
+      - path: Mesh/polySurface106
+        weight: 1
+      - path: Mesh/polySurface107
+        weight: 1
+      - path: Mesh/polySurface108
+        weight: 1
+      - path: Mesh/polySurface113
+        weight: 1
+      - path: Mesh/polySurface114
+        weight: 1
+      - path: Mesh/pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

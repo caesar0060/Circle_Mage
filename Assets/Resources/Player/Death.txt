@@ -1,0 +1,5 @@
+#Level	PowerRate	plus	cost
+0	0	5	100
+1	5	5	200
+2	10	5	300
+3	15	5	ー

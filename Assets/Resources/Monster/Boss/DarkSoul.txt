@@ -1,0 +1,2 @@
+#Level	HP	Power	Defence	Speed	AttackSpeed	XZ Resist	Y Resist	Break Resist	Maseki	BXZ_Resist	BY_Resist
+1	7000	200	200	5	3.5	500	500	600	500	300	300

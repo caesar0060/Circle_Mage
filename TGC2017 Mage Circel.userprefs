@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Monster\Enemy\DemonYaiba.txt">
+    <Files>
+      <File FileName="Assets\Scripts\Monster\MonsterStatus.cs" Line="217" Column="14" />
+      <File FileName="Assets\Scripts\UI\RotateToCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mage\MeteoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mage\MageAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mage\MageControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\StatusControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Monster\Enemy\DemonYaiba.txt" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Monster\EnemyPoint.cs" Line="46" Column="10" />
+      <File FileName="Assets\Xffect\Scripts\Component\XffectComponent.cs" Line="574" Column="14" />
+      <File FileName="Assets\Resources\Monster\Enemy\DemonYami.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

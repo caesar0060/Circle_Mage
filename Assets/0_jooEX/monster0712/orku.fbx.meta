@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: ff2fc0b9388c8e748bf862c827551321
+timeCreated: 1468306767
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: orku_Center
+    100004: orku_Head
+    100006: orku_Head_Down01
+    100008: orku_Head_Down02
+    100010: orku_Head_UP01
+    100012: orku_Head_UP02
+    100014: orku_Joint
+    100016: orku_ken
+    100018: orku_ken02
+    100020: orku_L_Ancle
+    100022: orku_L_Arm
+    100024: orku_L_Ball
+    100026: orku_L_Clavicle
+    100028: orku_L_Elbow
+    100030: orku_L_Knee
+    100032: orku_L_Parm
+    100034: orku_L_Pinger01
+    100036: orku_L_Pinger02
+    100038: orku_L_Shoulder
+    100040: orku_L_Thumb01
+    100042: orku_L_Thumb02
+    100044: orku_L_Tight
+    100046: orku_L_Toe
+    100048: orku_Mesh
+    100050: orku_Mesh01
+    100052: orku_Mesh02
+    100054: orku_Mesh03
+    100056: orku_Mesh04
+    100058: orku_Neck
+    100060: orku_R_Ancle
+    100062: orku_R_Arm
+    100064: orku_R_Ball
+    100066: orku_R_Clavicle
+    100068: orku_R_Elbow
+    100070: orku_R_Knee
+    100072: orku_R_Parm
+    100074: orku_R_Pinger01
+    100076: orku_R_Pinger02
+    100078: orku_R_Shoulder
+    100080: orku_R_Thumb01
+    100082: orku_R_Thumb02
+    100084: orku_R_Tight
+    100086: orku_R_Toe
+    100088: orku_Spine01
+    100090: orku_Spine02
+    100092: orku_Spine03
+    100094: orku_Spine04
+    400000: //RootNode
+    400002: orku_Center
+    400004: orku_Head
+    400006: orku_Head_Down01
+    400008: orku_Head_Down02
+    400010: orku_Head_UP01
+    400012: orku_Head_UP02
+    400014: orku_Joint
+    400016: orku_ken
+    400018: orku_ken02
+    400020: orku_L_Ancle
+    400022: orku_L_Arm
+    400024: orku_L_Ball
+    400026: orku_L_Clavicle
+    400028: orku_L_Elbow
+    400030: orku_L_Knee
+    400032: orku_L_Parm
+    400034: orku_L_Pinger01
+    400036: orku_L_Pinger02
+    400038: orku_L_Shoulder
+    400040: orku_L_Thumb01
+    400042: orku_L_Thumb02
+    400044: orku_L_Tight
+    400046: orku_L_Toe
+    400048: orku_Mesh
+    400050: orku_Mesh01
+    400052: orku_Mesh02
+    400054: orku_Mesh03
+    400056: orku_Mesh04
+    400058: orku_Neck
+    400060: orku_R_Ancle
+    400062: orku_R_Arm
+    400064: orku_R_Ball
+    400066: orku_R_Clavicle
+    400068: orku_R_Elbow
+    400070: orku_R_Knee
+    400072: orku_R_Parm
+    400074: orku_R_Pinger01
+    400076: orku_R_Pinger02
+    400078: orku_R_Shoulder
+    400080: orku_R_Thumb01
+    400082: orku_R_Thumb02
+    400084: orku_R_Tight
+    400086: orku_R_Toe
+    400088: orku_Spine01
+    400090: orku_Spine02
+    400092: orku_Spine03
+    400094: orku_Spine04
+    4300000: orku_Mesh01
+    4300002: orku_Mesh02
+    4300004: orku_Mesh03
+    4300006: orku_Mesh04
+    7400000: Walk
+    7400002: Attack
+    7400004: Death
+    7400006: Break
+    7400008: Blow
+    7400010: Stand
+    7400012: Recall
+    9500000: //RootNode
+    13700000: orku_Mesh01
+    13700002: orku_Mesh02
+    13700004: orku_Mesh03
+    13700006: orku_Mesh04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6926829
+        functionName: PlayerDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DestroyMonster
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Break
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Blow
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Recall
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Move
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: orku_Joint
+        weight: 1
+      - path: orku_Joint/orku_Center
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_L_Tight/orku_L_Knee/orku_L_Ancle/orku_L_Ball/orku_L_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_R_Tight/orku_R_Knee/orku_R_Ancle/orku_R_Ball/orku_R_Toe
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_ken/orku_ken02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Parm/orku_L_Pinger01/orku_L_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_L_Clavicle/orku_L_Shoulder/orku_L_Elbow/orku_L_Arm/orku_L_Thumb01/orku_L_Thumb02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_Down01/orku_Head_Down02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_Neck/orku_Head/orku_Head_UP01/orku_Head_UP02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Parm/orku_R_Pinger01/orku_R_Pinger02
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01
+        weight: 1
+      - path: orku_Joint/orku_Center/orku_Spine01/orku_Spine02/orku_Spine03/orku_Spine04/orku_R_Clavicle/orku_R_Shoulder/orku_R_Elbow/orku_R_Arm/orku_R_Thumb01/orku_R_Thumb02
+        weight: 1
+      - path: orku_Mesh
+        weight: 1
+      - path: orku_Mesh/orku_Mesh01
+        weight: 1
+      - path: orku_Mesh/orku_Mesh02
+        weight: 1
+      - path: orku_Mesh/orku_Mesh03
+        weight: 1
+      - path: orku_Mesh/orku_Mesh04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
