@@ -16,7 +16,7 @@ public class PlayerStatus : MonoBehaviour {
 	public float costDownRate;	//コストの減少率
 	public float CriticalRate;	//会心の一撃の攻撃力の増加率
 	public GameObject shield;	//シールドのオブジェクト
-    [HideInInspector]
+    //[HideInInspector]
     public bool isWin = false;
 
 	private float time = 10;

@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{28EBA827-8535-2FF0-0E5F-2BD55FD49586}</ProjectGuid>
+    <ProjectGuid>{7CF532D9-75D5-56FF-02FE-06AEFFC123D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -112,7 +112,7 @@
      <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glow_compose.shader" />
      <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement_screen.shader" />
      <None Include="Assets\Xffect\Tutorial\SubEmitter\readme.txt" />
-     <None Include="Assets\0_jooEX\Magic FX\IceRiver\Frozen_River_Memo.txt" />
+     <None Include="Assets\0_jooEX\MagicFX\IceRiver\Frozen_River_Memo.txt" />
      <None Include="Assets\Resources\Mage\LV1 Lightning Shower.txt" />
      <None Include="Assets\0_jooEX\monster0712\orku Anime Key.txt" />
      <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_radial_blur_mask.shader" />

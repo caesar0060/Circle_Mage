@@ -33,8 +33,9 @@ public class MonsterAnimatorScript : MonoBehaviour {
 	/// クリア
 	/// </summary>
 	public void StageClear(){
-        if (this.gameObject.tag == "Boss")
+        if (this.tag == "Boss")
         {
+			Debug.Log ("win");
 			playerStatus.isWin = true;
             GameObject.FindGameObjectWithTag("ClearImage").GetComponent<Image>().enabled = true;
             naviControl.ShowNavi("ゲームクリア", 3, "");
@@ -49,6 +50,7 @@ public class MonsterAnimatorScript : MonoBehaviour {
 	/// <returns>The scene.</returns>
 	/// <param name="num">Number.</param>
 	public IEnumerator MoveScene(int num){
+		Debug.Log ("123");
 		yield return new WaitForSeconds (3);
 		SceneManager.LoadScene (num);
 	}

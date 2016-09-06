@@ -4,7 +4,7 @@
 1	Shock Wave
 1	Linghning_Kill
 1	Meteor
-1	Abyss Eye_Scale
-3	Hart Breaker
+0	Abyss Eye_Scale
+0	Hart Breaker
 1	Frozen_River_Scale
-10390	Maseki
+2580	Maseki

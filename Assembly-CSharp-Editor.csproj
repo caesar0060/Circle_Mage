@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BB78BD14-547A-B6E0-84C7-7AD5C6CF4ED4}</ProjectGuid>
+    <ProjectGuid>{B22B36EC-2D8A-DD7F-7A9E-CDC5A77DF65C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -125,7 +125,7 @@
      <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_glow_compose.shader" />
      <None Include="Assets\Xffect\Resources\Shaders\AdvanceShader\xft_displacement_screen.shader" />
      <None Include="Assets\Xffect\Tutorial\SubEmitter\readme.txt" />
-     <None Include="Assets\0_jooEX\Magic FX\IceRiver\Frozen_River_Memo.txt" />
+     <None Include="Assets\0_jooEX\MagicFX\IceRiver\Frozen_River_Memo.txt" />
      <None Include="Assets\Resources\Mage\LV1 Lightning Shower.txt" />
      <None Include="Assets\0_jooEX\monster0712\orku Anime Key.txt" />
      <None Include="Assets\Xffect\Resources\Shaders\ImageEffect\xft_radial_blur_mask.shader" />
@@ -170,9 +170,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{28EBA827-8535-2FF0-0E5F-2BD55FD49586}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{7CF532D9-75D5-56FF-02FE-06AEFFC123D6}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{BE8CAFFE-9DE9-9EDC-5901-036DB5ED3ED7}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{3D8BD422-E55A-A993-AC87-2EA9F07A5DEA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

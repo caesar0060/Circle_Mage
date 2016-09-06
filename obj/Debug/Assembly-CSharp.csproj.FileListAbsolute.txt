@@ -86,3 +86,25 @@ C:\Users\Fai\Desktop\TGC2017 Mage Circel\TGC2017 Mage Circel\Temp\bin\Debug\Unit
 C:\Users\Fai\Desktop\TGC2017 Mage Circel\TGC2017 Mage Circel\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\Fai\Desktop\TGC2017 Mage Circel\TGC2017 Mage Circel\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\Fai\Desktop\TGC2017 Mage Circel\TGC2017 Mage Circel\obj\Debug\Assembly-CSharp.pdb
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEditor.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.xml
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEditor.xml
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\student\Desktop\Circle_Mage\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\student\Desktop\Circle_Mage\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Circle_Mage\obj\Debug\Assembly-CSharp.dll
+C:\Users\student\Desktop\Circle_Mage\obj\Debug\Assembly-CSharp.pdb
